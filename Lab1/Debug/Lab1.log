@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+e:\programs\yandexdisk\projects c#\graphc++\lab1\lab1\lab1.cpp(212): warning C4101: gdiplusStartupOutput: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\graphc++\lab1\lab1\lab1.cpp(329): warning C4060: оператор switch не содержит метку "case" или "default"
+  Lab1.vcxproj -> E:\Programs\YandexDisk\Projects C#\GraphC++\Lab1\Debug\Lab1.exe

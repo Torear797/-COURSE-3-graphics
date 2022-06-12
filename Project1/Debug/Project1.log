@@ -1,0 +1,36 @@
+﻿  Lab2.cpp
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(396): warning C4060: оператор switch не содержит метку "case" или "default"
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(419): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(436): warning C4244: аргумент: преобразование "INT" в "Gdiplus::REAL", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(470): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(478): warning C4244: аргумент: преобразование "Gdiplus::REAL" в "int", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(525): warning C4244: =: преобразование "float" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(526): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(527): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(530): warning C4244: =: преобразование "float" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(531): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(532): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(570): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(657): warning C4244: =: преобразование "float" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(658): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(659): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(663): warning C4244: =: преобразование "float" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(664): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(665): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(669): warning C4305: +=: усечение из "double" в "float"
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(697): warning C4244: =: преобразование "float" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(698): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(699): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(703): warning C4244: =: преобразование "float" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(704): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(705): warning C4244: =: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(709): warning C4305: +=: усечение из "double" в "float"
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(847): warning C4101: gdiplusStartupOutput: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(919): warning C4101: bm: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(946): warning C4305: инициализация: усечение из "double" в "float"
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(951): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(966): warning C4018: <: несоответствие типов со знаком и без знака
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(972): warning C4244: аргумент: преобразование "double" в "INT", возможна потеря данных
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(1009): warning C4018: <: несоответствие типов со знаком и без знака
+e:\programs\yandexdisk\projects c#\graphc++\lab1\project1\lab2.cpp(1015): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> E:\Programs\YandexDisk\Projects C#\GraphC++\Lab1\Debug\Lab2.exe
